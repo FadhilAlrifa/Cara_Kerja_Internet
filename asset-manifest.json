@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cara_Kerja_Internet/static/css/main.f424b82d.css",
+    "main.js": "/Cara_Kerja_Internet/static/js/main.4f738cf0.js",
+    "index.html": "/Cara_Kerja_Internet/index.html",
+    "main.f424b82d.css.map": "/Cara_Kerja_Internet/static/css/main.f424b82d.css.map",
+    "main.4f738cf0.js.map": "/Cara_Kerja_Internet/static/js/main.4f738cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f424b82d.css",
+    "static/js/main.4f738cf0.js"
+  ]
+}
