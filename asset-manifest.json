@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cara_Kerja_Internet/static/css/main.f424b82d.css",
-    "main.js": "/Cara_Kerja_Internet/static/js/main.4f738cf0.js",
-    "index.html": "/Cara_Kerja_Internet/index.html",
-    "main.f424b82d.css.map": "/Cara_Kerja_Internet/static/css/main.f424b82d.css.map",
-    "main.4f738cf0.js.map": "/Cara_Kerja_Internet/static/js/main.4f738cf0.js.map"
+    "main.css": "/Cara_Kerja_Internet/Home/static/css/main.536b6c65.css",
+    "main.js": "/Cara_Kerja_Internet/Home/static/js/main.01d52dbf.js",
+    "index.html": "/Cara_Kerja_Internet/Home/index.html",
+    "main.536b6c65.css.map": "/Cara_Kerja_Internet/Home/static/css/main.536b6c65.css.map",
+    "main.01d52dbf.js.map": "/Cara_Kerja_Internet/Home/static/js/main.01d52dbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f424b82d.css",
-    "static/js/main.4f738cf0.js"
+    "static/css/main.536b6c65.css",
+    "static/js/main.01d52dbf.js"
   ]
 }
